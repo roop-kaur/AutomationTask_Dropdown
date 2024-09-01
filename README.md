@@ -13,9 +13,9 @@ After successfully installing the framework, I connected the test files to Git H
 
 There are 3 robot files in the repository AutomationTask_Dropdown and are as below:
 
-TC01 - This test case is to verify that Sweden Is in the country Dropdown list.
-TC02 - This is a test case to verify that all expected countries are present in the Dropdown list. It is a part of the regression test scenarios.
-TC03 - This is a test case to verify that Sweden can be selected and the form can be submitted.
+TC01.robot - This test case is to verify that Sweden Is in the country Dropdown list.
+TC02.robot - This is a test case to verify that all expected countries are present in the Dropdown list. It is a part of the regression test scenarios.
+TC03.robot - This is a test case to verify that Sweden can be selected and the form can be submitted.
 
 There is a possibility of adding more scenarios for regression testing, but due to time constraints and some technical challenges, I have automated only the above ones.
 
